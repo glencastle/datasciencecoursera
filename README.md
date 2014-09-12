@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-JH Toolkit course 
